@@ -1,0 +1,3 @@
+[submodule "Croc/vendor/spdlog"]
+	path = Croc/vendor/spdlog
+	url = https://github.com/gabime/spdlog
